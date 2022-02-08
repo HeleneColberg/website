@@ -26,12 +26,6 @@
 
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
-
-<div class="navigation">
-    <a href="#">Forside</a>
-    <a href="#">om os</a>
-    <a href="#">Kontakt</a>
-</div>
-
+<h1>Helene er en lille snuskebasse</h1>
 </body>
 </html>
